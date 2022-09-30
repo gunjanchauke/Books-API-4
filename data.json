@@ -530,5 +530,35 @@
 	"publisher": "Simon and Schuster",
 	"shopping-link": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiO4MLamr36AhVkk2YCHeGxCCkYABAFGgJzbQ&ohost=www.google.com&cid=CAESbeD23Go9ciQc7T1LV-R18d5HbWGxM-uBLyW14CG1a1bqrA0AEYsu3EW5yP8QWsqdhjuzwcZtmyrDC36Onr6QTlmyMh0B-zflNOK4K8pPJXRHbMAdGHzssvjC-lSB3DdHpesmh8t7p8ohk2lvFAg&sig=AOD64_1F9q_IuCZyzd_AxRaMOdVtM-xdng&q&adurl&ved=2ahUKEwiIn7namr36AhX0ArcAHcq1BHgQ0Qx6BAgFEAE",
 	"download-link": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwi0h4zrmr36AhVYk2YCHa0QAvoYABABGgJzbQ&ohost=www.google.com&cid=CAESbeD2Ll6imHi6aI3YdtFHlDBctYUGvvuh2WoaxiBUGVDDMgdrp3kVjWbY2aWpWy2bVJ4hTXUXDRzrVuLKDNXKKLMr3D6O2YC2htQzM10-subBKh9aBg-rnsAwKrZ5BJExPPcz7FvD4DoJp9CBU64&sig=AOD64_0pA48c0H7YDZP6f_9hGLNko-mMIg&q&adurl&ved=2ahUKEwi2hYPrmr36AhWCS3wKHRrxAtoQ0Qx6BAgEEAE"
+},
+{
+	"id": 55,
+	"number-pages": 374,
+	"name": "Ready Player One",
+	"author": " Ernest Cline ",
+	"publishing-year": "2011",
+	"publisher": "Crown Publishing Group",
+	"shopping-link": "https://www.amazon.in/Ready-Player-One-Ernest-Cline/dp/0307887448",
+	"download-link": "https://archive.org/details/ready-player-one-ernest-cline"
+},
+{
+	"id": 56,
+	"number-pages": 283,
+	"name": "Bossypants",
+	"author": "Tina Fey",
+	"publishing-year": "2011",
+	"publisher": "Reagan Arthur Books",
+	"shopping-link": "https://www.amazon.in/Bossypants-Tina-Fey/dp/0751547832",
+	"download-link": "https://www.d-pdf.com/book/2366/read"
+},
+{
+	"id": 57,
+	"number-pages": 384 ,
+	"name": "The Martian",
+	"author": "Andy Weir",
+	"publishing-year": "2011",
+        "publisher": "Crown Publishing Group",
+	"shopping-link": "https://www.amazon.in/Martian-Novel-Andy-Weir/dp/0804139024",
+	"download-link": "https://www.readingsanctuary.com/the-martian-ebook/"
 }
 ]
