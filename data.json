@@ -551,5 +551,15 @@
 		"publisher": "Atlantic Monthly Press",
 		"shopping-link": "https://play.google.com/store/audiobooks/details?id=AQAAAABCuWy5PM&gl=IN&hl=en-IN&source=productsearch&utm_source=HA&utm_medium=SEM&utm_campaign=PLA&pcampaignid=MKT-EDR-apac-in-1003227-Med-pla-bk-Evergreen-Jul0122-PLA-Audiobooks_Fiction_Cultural:Heritage&gclid=CjwKCAjwp9qZBhBkEiwAsYFsb1CeHQNWZfJbGq6TwVDqqt7DjL2HVkvGAt2HZnprngbmVN_yF2_dDRoC6CoQAvD_BwE&gclsrc=aw.ds",
 		"download-link": "https://www.sarkarirush.com/ikigai-pdf/"
+	},
+	{
+		"id": 57,
+		"number-pages": 441,
+		"name": "Intoduction to Statistical Learning: With Applications in R",
+		"author": "Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani",
+		"publishing-year": "2013",
+		"publisher": "Springer",
+		"shopping-link": "https://www.amazon.in/Introduction-Statistical-Learning-Applications-Statistics/dp/1071614177/ref=asc_df_1071614177/?tag=googleshopdes-21&linkCode=df0&hvadid=544939352122&hvpos=&hvnetw=g&hvrand=18307490665013593023&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9301027&hvtargid=pla-1147835592944&psc=1",
+		"download-link": "https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf"
 	}
 ]
