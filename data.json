@@ -561,10 +561,20 @@
 		"publisher": "Springer",
 		"shopping-link": "https://www.amazon.in/Introduction-Statistical-Learning-Applications-Statistics/dp/1071614177/ref=asc_df_1071614177/?tag=googleshopdes-21&linkCode=df0&hvadid=544939352122&hvpos=&hvnetw=g&hvrand=18307490665013593023&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9301027&hvtargid=pla-1147835592944&psc=1",
 		"download-link": "https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf"
-	}
+	},
 	{
-		"id": 59,
-		"number-pages": 96 ,
+		"id": 56,
+		"number-pages": 192,
+		"name": "American Sign Language for Beginners",
+		"author": " Rochelle Barlow",
+		"publishing-year": "2020",
+		"publisher": "Callisto Media, 2020",
+		"shopping-link": "https://www.amazon.in/American-Sign-Language-Beginners-Essentials/dp/1646116429",
+		"download-link": "https://books.google.co.in/books/about/American_Sign_Language_for_Beginners.html?id=JO5XyQEACAAJ&source=kp_book_description&redir_esc=y"
+	},
+	{
+		"id": 57,
+		"number-pages": 96,
 		"name": "Frankenstein",
 		"author": "Mary Shelley",
 		"publishing-year": "2013",
