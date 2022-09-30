@@ -1934,5 +1934,14 @@
 		"publisher": "Harper Perennial Modern Classics",
 		"shopping-link": "https://www.amazon.com/s/ref=x_gr_w_bb_sout?tag=x_gr_w_bb_sout-20&creative=374001&campaign=211041&adid=082VK13VJJCZTQYGWWCZ&index=books&keyword=To+Kill+a+Mockingbird",
 		"download-link": "https://bookanalysis.com/harper-lee/to-kill-a-mockingbird/"
+	},
+	{
+		"id": 64,
+		"name": "Deep Work",
+		"number-pages": 290,
+		"author": "Carl Newport",
+		"publishing-year": "2016",
+		"shopping-link": "https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692",
+		"download-link": "https://www.pdfdrive.com/deep-work-cal-newport-e33410582.html"
 	}
 ]
