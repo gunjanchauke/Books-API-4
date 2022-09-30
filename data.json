@@ -542,4 +542,14 @@
 		"shopping-link": "https://www.amazon.in/Lord-Rings-J-R-Tolkien/dp/0008471282",
 		"download-link": "https://books.google.co.in/books/about/The_lord_of_the_rings.html?id=7iS1CCpHrJgC&redir_esc=y"
 	}
+	{
+		"id": 56,
+		"number-pages": 192,
+		"name": "American Sign Language for Beginners",
+		"author": " Rochelle Barlow",
+		"publishing-year": "2020",
+		"publisher": "Callisto Media, 2020",
+		"shopping-link": "https://www.amazon.in/American-Sign-Language-Beginners-Essentials/dp/1646116429",
+		"download-link": "https://books.google.co.in/books/about/American_Sign_Language_for_Beginners.html?id=JO5XyQEACAAJ&source=kp_book_description&redir_esc=y"
+	},
 ]
