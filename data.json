@@ -492,15 +492,15 @@
 		"download-link": "https://www.pdfdrive.com/throne-of-glass-books.html"
 	},
 	{
-        "id": 52,
-        "number-pages": 304,
-        "name": "The Girl in The Room 105",
-        "author": "Chetan Bhagat",
-        "publishing-year": "2018",
-        "publisher": "westland books",
-        "shopping-link": "https://www.amazon.in/Girl-Room-105-Chetan-Bhagat/dp/1542040469",
-        "download-link": "https://www.pdfnotes.co/the-girl-in-room-105"
-    }
+		"id": 52,
+		"number-pages": 304,
+		"name": "The Girl in The Room 105",
+		"author": "Chetan Bhagat",
+		"publishing-year": "2018",
+		"publisher": "westland books",
+		"shopping-link": "https://www.amazon.in/Girl-Room-105-Chetan-Bhagat/dp/1542040469",
+		"download-link": "https://www.pdfnotes.co/the-girl-in-room-105"
+	},
 	{
 		"id": 1,
 		"number-pages": 265,
@@ -1190,16 +1190,6 @@
 		"author": "Mary Shelley",
 		"publishing-year": "2013",
 		"publisher": "Enslow Publishing",
-		"shopping-link": "https://www.amazon.in/gp/product/0766040844/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_in-21&linkCode=as2&camp=3626&creative=24790",
-		"download-link": "https://drive.google.com/file/d/0B3dBEuS_INzOU3EybHVONEpkYzg/view?resourcekey=0-W_h-Aav9MXu4eBN-aoWcdQ"
-	},
-	{
-		"id": 58,
-		"number-pages": 96,
-		"name": "Mindset",
-		"author": "Shelley",
-		"publishing-year": "2013",
-		"publisher": "Rochelle Publishing",
 		"shopping-link": "https://www.amazon.in/gp/product/0766040844/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_in-21&linkCode=as2&camp=3626&creative=24790",
 		"download-link": "https://drive.google.com/file/d/0B3dBEuS_INzOU3EybHVONEpkYzg/view?resourcekey=0-W_h-Aav9MXu4eBN-aoWcdQ"
 	},
@@ -1906,7 +1896,7 @@
 		"download-link": "https://www.pdfnotes.co/the-girl-in-room-105"
 	},
 	{
-		"id": 59,
+		"id": 60,
 		"number-pages": 96,
 		"name": "Mindbody 2",
 		"author": "Shelley",
@@ -1916,7 +1906,7 @@
 		"download-link": "https://drive.google.com/file/d/0B3dBEuS_INzOU3EybHVONEpkYzg/view?resourcekey=0-W_h-Aav9MXu4eBN-aoWcdQ"
 	},
 	{
-		"id": 60,
+		"id": 61,
 		"number-pages": 304,
 		"name": "The Girl in The Room 109",
 		"author": "hetan Bhagat",
@@ -1924,5 +1914,25 @@
 		"publisher": "Eastland books",
 		"shopping-link": "https://www.amazon.in/Girl-Room-105-Chetan-Bhagat/dp/1542040469",
 		"download-link": "https://www.pdfnotes.co/the-girl-in-room-105"
+	},
+	{
+		"id": 62,
+		"number-pages": 96,
+		"name": "Mindset",
+		"author": "Shelley",
+		"publishing-year": "2013",
+		"publisher": "Rochelle Publishing",
+		"shopping-link": "https://www.amazon.in/gp/product/0766040844/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_in-21&linkCode=as2&camp=3626&creative=24790",
+		"download-link": "https://drive.google.com/file/d/0B3dBEuS_INzOU3EybHVONEpkYzg/view?resourcekey=0-W_h-Aav9MXu4eBN-aoWcdQ"
+	},
+	{
+		"id": 63,
+		"number-pages": 336,
+		"name": "To Kill a Mockingbird",
+		"author": "Harper Lee",
+		"publishing-year": "1961",
+		"publisher": "Harper Perennial Modern Classics",
+		"shopping-link": "https://www.amazon.com/s/ref=x_gr_w_bb_sout?tag=x_gr_w_bb_sout-20&creative=374001&campaign=211041&adid=082VK13VJJCZTQYGWWCZ&index=books&keyword=To+Kill+a+Mockingbird",
+		"download-link": "https://bookanalysis.com/harper-lee/to-kill-a-mockingbird/"
 	}
 ]
