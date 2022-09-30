@@ -1,8 +1,8 @@
 [
 	{
-		"id": 12513
-		"number-pages": 7000,
-		"name": "Fuck with life",
+		"id": 1,
+		"number-pages": 265,
+		"name": "Isle of Dead Ships",
 		"author": "Crittenden Marriott",
 		"publishing-year": "1925",
 		"publisher": "Shelby and brothers",
@@ -572,5 +572,15 @@
 		"publisher": "Springer",
 		"shopping-link": "https://www.amazon.in/Introduction-Statistical-Learning-Applications-Statistics/dp/1071614177/ref=asc_df_1071614177/?tag=googleshopdes-21&linkCode=df0&hvadid=544939352122&hvpos=&hvnetw=g&hvrand=18307490665013593023&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9301027&hvtargid=pla-1147835592944&psc=1",
 		"download-link": "https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf"
+	},
+	{
+		"id": 58,
+		"number-pages": 265,
+		"name": "THINK STRAIGHT: Change Your Thoughts, Change Your Life",
+		"author": "Darius Foroux ",
+		"publishing-year": "2017",
+		"publisher": "North Eagle Publishing ",
+		"shopping-link": "https://www.amazon.in/THINK-STRAIGHT-Change-Your-Thoughts-ebook/dp/B077NJWFR3",
+		"download-link": "https://www.pdfdrive.com/think-straight-change-your-thoughts-change-your-life-e176175455.html"
 	}
 ]
